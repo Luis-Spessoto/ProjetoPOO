@@ -8,3 +8,10 @@
   <figcaption>Layout das funcionalidades do sistema [windows]</figcaption>
  </figure>
 </div>
+
+## 🖥️ Tecnologias Utilizadas
+
+- **Linguagem**: Java
+- **IDE**: NetBeans
+- **JDK**: 23
+- **Interface Gráfica**: Java Swing
